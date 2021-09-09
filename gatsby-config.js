@@ -6,9 +6,8 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID;
 module.exports = {
   siteMetadata: {
     siteTitleAlt: `Ruslan | Freelance Web Developer`,
-    author: "Ruslan",
-    siteImage:
-      "https://sun9-14.userapi.com/impg/lNcEBTFQF_rftruw5739sHFVvbC5xekK6aobvQ/8EXhyjownlY.jpg?size=1920x1080&quality=96&sign=80c4028edb496e93e1d286605b3c47bf&type=album",
+    author: `Ruslan`,
+    siteUrl: `https://freelance-portfolio.netlify.app/`,
   },
   plugins: [
     {
