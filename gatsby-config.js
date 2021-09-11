@@ -8,6 +8,7 @@ module.exports = {
     siteTitleAlt: `Ruslan | Freelance Web Developer`,
     author: `Ruslan`,
     siteUrl: `https://freelance-portfolio.netlify.app/`,
+    
   },
   plugins: [
     {
